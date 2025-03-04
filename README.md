@@ -11,8 +11,8 @@ I'm Laís Corrêa, currently studyng programming in **Python** at **Tokio School
 ## 🛠️ Tech Stack  
 ![Your Skills](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![Your Skills](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-[Your Skills](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-[Your Skills](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Your Skills](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Your Skills](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 <!-- Add more badges for your skills. You can generate them at https://shields.io/ or https://github.com/Ileriayo/markdown-badges -->
 
 ## 📌 Projects  
