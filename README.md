@@ -27,7 +27,6 @@ I'm Laís Corrêa, currently studying programming in **Python** at **Tokio Schoo
 
 ## 📢 Let's Connect!
 ***
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](Your LinkedIn URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/laIs-correa)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:lais.crr@gmail.com)  
-
 
